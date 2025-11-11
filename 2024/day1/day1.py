@@ -5,7 +5,7 @@ game_number = 0
 for games in input:
     pulls = games.split(": ")[1].split("; ")
     game_number += 1
-    print (pulls)
+    #print (pulls)
     red_max = 0
     blue_max = 0
     green_max = 0
