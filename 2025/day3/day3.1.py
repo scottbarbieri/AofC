@@ -18,18 +18,5 @@ for banks in input:
             right = int(banks[i])
     code = code + int(str(left)+str(right))
     print (left, right)
-        
-
-        #for j in range(1,length+1):
-            #x = str(i).count(str(i)[0:j])
-            #print (str(i)[0:j])
-            #print (x)
-            #if x != 1:
-                #if x * len(str(i)[0:j]) == length:
-                    #print(i)
-                    #print (len(str(i)[0:j]))
-                    #code=code+i
-                    #break
-
 
 print (code)
