@@ -1,4 +1,4 @@
-with open("/workspaces/AofC/2025/day3/input.txt", "r") as file:
+with open("/Users/zv43774/Library/CloudStorage/OneDrive-NewellBrands/01.Projects//AofC/2025/day3/input.txt", "r") as file:
     input = file.read().splitlines()
 #print (input)
 code = 0
